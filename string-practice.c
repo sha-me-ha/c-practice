@@ -32,7 +32,10 @@ for(int i=0;i<len2;i++){
 
 char ch='a';
 for(int i=0;i<26;i++){
+    if(cnt[i]!=0){
+        printf("no\n");
 
+    }
 }
     return 0;
 }
